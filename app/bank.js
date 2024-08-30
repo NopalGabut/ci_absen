@@ -2,7 +2,6 @@ function reset_form()
     {
       $("#txrekening").val('').focus();
       $("#txbank").val('');
-      //a
     }
 
 function update_data() {
